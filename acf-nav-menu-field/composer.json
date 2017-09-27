@@ -1,0 +1,17 @@
+{
+  "name": "cite/acf-nav-menu-field",
+  "description": "Extends ACF PRO with a nav menu field populated by Wordpress registered menus.",
+  "type": "library",
+  "authors": [
+    {
+      "name": "James Bull",
+      "email": "james.bull@cite.co.uk"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Cite\\ACFNavMenuField\\": "src/"
+    }
+  }
+}
